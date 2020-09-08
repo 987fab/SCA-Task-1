@@ -7,7 +7,20 @@
 </head>
 <body>
     <h1> I am a Civil Servant</h1>
+    h1
+    {
+        color: red;
+    }
+    
     <h2> I am a civil Servant</h2>
+    h2
+    {
+        color: green;
+    }
     <h3> I am a Civil servant</h3>
+    h3
+    {
+        color: blue;
+    }
 </body>
 </html>
